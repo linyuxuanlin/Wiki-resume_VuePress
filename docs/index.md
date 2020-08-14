@@ -44,27 +44,27 @@ sidebar: false
 - 项目时间：2020 年
 - 项目简介：考虑到项目所需电机数量非固定的需求，此电机驱动套件拆分为母板（Master）与子板（Slave），采取了类似积木的创新拼接方式，相比市面所售驱动板，减小了体积，极大提升了电机驱动板的可拓展性
 - 项目详情：[TinyDVR - 小巧身材，满载动力](https://wiki-power.com/post/%E7%94%B5%E8%B7%AF%E8%AE%BE%E8%AE%A1/TinyDVR-%E5%B0%8F%E5%B7%A7%E8%BA%AB%E6%9D%90%EF%BC%8C%E6%BB%A1%E8%BD%BD%E5%8A%A8%E5%8A%9B.html)
-- 开源地址：<https://github.com/linyuxuanlin/TinyDVR>
+- 开源地址：[linyuxuanlin/TinyDVR](https://github.com/linyuxuanlin/TinyDVR)
 
 ### SwiftCtrl 蓝牙手柄
 
 - 项目时间：2020 年
 - 项目简介：一款基于 DAP-Link 的烧录器 / 调试器，优化了布线，减小了体积
 - 项目详情：[SwiftCtrl - 蓝牙手柄](https://wiki-power.com/post/%E7%94%B5%E8%B7%AF%E8%AE%BE%E8%AE%A1/SwiftCtrl-%E8%93%9D%E7%89%99%E6%89%8B%E6%9F%84.html)
-- 开源地址：<https://github.com/linyuxuanlin/DashDAP>
+- 开源地址：[linyuxuanlin/DashDAP](https://github.com/linyuxuanlin/DashDAP)
 
 ### DashDAP 单片机烧录器
 
 - 项目时间：2020 年
 - 项目简介：一款基于 Arduino 的蓝牙手柄，硬件上提供了两个摇杆与两个按钮的控制，以及 OLED 数显的功能
 - 项目详情：[自制 CMSIS-DAP](https://wiki-power.com/post/%E7%94%B5%E8%B7%AF%E8%AE%BE%E8%AE%A1/%E8%87%AA%E5%88%B6CMSIS-DAP.html)
-- 开源地址：<https://github.com/linyuxuanlin/SwiftCtrl>
+- 开源地址：[linyuxuanlin/SwiftCtrl](https://github.com/linyuxuanlin/SwiftCtrl)
 
 ### 适用于飞镖系统的单片机控制器
 
 - 项目时间：2020 年
 - 项目简介：一款基于 STM32F427 的单片机主控板，最大程度缩小了体积
-- 开源地址：<https://github.com/linyuxuanlin/Batarang>
+- 开源地址：[linyuxuanlin/Batarang](https://github.com/linyuxuanlin/Batarang)
 
 ### 集成语音识别的飞思卡尔智能车设计
 
@@ -120,7 +120,7 @@ sidebar: false
 - 项目时间：2017 年
 - 项目简介：将路灯去线缆化（使用风能 / 太阳能供电），并基于云平台，作为智能监测系统的节点，解决了偏远地区线缆困难、森林防火防控、环境监测等问题
 - 项目详情：[Wight · 基于云平台的去线缆化照明系统](<https://wiki-power.com/post/%E6%AF%94%E8%B5%9B%E7%BB%8F%E5%8E%86/Hack.init().html>)
-- 开源地址：<https://github.com/linyuxuanlin/Wight>
+- 开源地址：[linyuxuanlin/Wight](https://github.com/linyuxuanlin/Wight)
 
 ### 基于 Arduino 的智能家居无损升级套装
 
@@ -132,7 +132,7 @@ sidebar: false
   - 一等奖 - 第 32 届汕头市青少年科技创新大赛
   - 一等奖 - 广东省中小学创客大赛
   - 三等奖 - 2017 年度潮汕星河奖
-- 开源地址：<https://github.com/linyuxuanlin/CASTIC>
+- 开源地址：[linyuxuanlin/CASTIC](https://github.com/linyuxuanlin/CASTIC)
 
 <br />
 
