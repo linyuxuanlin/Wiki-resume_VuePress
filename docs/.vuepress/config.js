@@ -5,7 +5,7 @@ const pluginConf = require("../../config/pluginConf.js");
 module.exports = {
   title: "Power's Wiki", // 网站标题，改为你自己的
   description: "个人知识库", // 网站描述，改为你自己的
-  //base: '/Wiki-book/', // 不自定义链接的时候才需要
+  //base: '/Wiki-resume/', // 不自定义链接的时候才需要
 
   // 让时间格式符合国内习惯
   locales: {
@@ -108,7 +108,7 @@ module.exports = {
     smoothScroll: true,
 
     // 显示 'Edit on GitHub'
-    repo: "linyuxuanlin/Wiki-book",
+    repo: "linyuxuanlin/Wiki-resume",
     repoLabel: "本站源码", // 显示在 NavBar
     docsDir: "docs",
     editLinks: true,
