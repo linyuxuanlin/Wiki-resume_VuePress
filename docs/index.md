@@ -16,7 +16,7 @@ sidebar: false
 
 ## 个人信息
 
-- 林宇轩 / 男 /1999
+- 林宇轩 / 男 / 1999
 - 本科 / 华工广州学院 / 机器人学院
 - 技术博客：[wiki-power.com](https://wiki-power.com)
 - Github 主页：[github.com/linyuxuanlin](http://github.com/linyuxuanlin)
