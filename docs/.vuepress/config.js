@@ -5,9 +5,9 @@ const pluginConf = require("../../config/pluginConf.js");
 module.exports = {
   title: "Power's resume", // 网站标题，改为你自己的
   description: "个人知识库", // 网站描述，改为你自己的
-  //base: '/Wiki-resume/', // 不自定义链接的时候才需要
-
+  //base: "/Wiki-resume/", // 不自定义链接的时候才需要
   // 让时间格式符合国内习惯
+
   locales: {
     "/": {
       lang: "zh-CN",
@@ -99,26 +99,26 @@ module.exports = {
   plugins: pluginConf,
 
   themeConfig: {
-    nav: navConf,
+    nav: false,
     sidebar: siderbarConf,
 
-    lastUpdated: "Last Updated",
+    //lastUpdated: "Last Updated",
 
     // 平滑滚动
     smoothScroll: true,
 
     // 显示 'Edit on GitHub'
     repo: "linyuxuanlin/Wiki-resume",
-    repoLabel: "本站源码", // 显示在 NavBar
-    docsDir: "docs",
-    editLinks: true,
-    editLinkText: "在 GitHub 上编辑此页面", // 显示在文章底部
+    repoLabel: false,
+    docsDir: "/",
+    editLinks: false,
+    //editLinkText: "在 GitHub 上编辑此页面", // 显示在文章底部
 
-    record: "Power Lin © 2015 | 粤 ICP 备 20014898 号",
-    recordLink: "http://www.beian.miit.gov.cn/",
+    //record: "Power Lin © 2015 | 粤 ICP 备 20014898 号",
+    //recordLink: "http://www.beian.miit.gov.cn/",
     //cyberSecurityRecord: '公安部备案文案',
     //cyberSecurityLink: '公安部备案指向链接',
     // 项目开始时间，只填写年份
-    startYear: "2015",
+    //startYear: "2015",
   },
 };
