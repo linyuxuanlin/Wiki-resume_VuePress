@@ -1,13 +1,14 @@
 {
-  "name": "Power's Wiki",
-  "short_name": "Power's Wiki",
+  "name": "Power's resume",
+  "short_name": "Power's resume",
   "theme_color": "#5d85c8",
   "background_color": "#fff",
   "display": "standalone",
   "description": "Power's personal Wiki",
   "Scope": "/",
   "start_url": "/index.html",
-  "icons": [{
+  "icons": [
+    {
       "src": "icons/icon-72x72.png",
       "sizes": "72x72",
       "type": "image/png"

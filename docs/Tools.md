@@ -8,7 +8,7 @@
 
 - [**Trello**](https://trello.com/b/0QeKClyr/%E4%B8%AA%E4%BA%BA%E9%A1%B9%E7%9B%AE)：个人项目进度
 
-### Power's Wiki
+### Power's resume
 
 - [**Trello**](https://trello.com/b/0QeKClyr/%E4%B8%AA%E4%BA%BA%E9%A1%B9%E7%9B%AE)：文章写作选题
 - [**VuePress**](https://vuepress.vuejs.org/zh/)：Vue 驱动的静态网站生成器，中文文档

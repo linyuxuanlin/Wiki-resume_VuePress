@@ -3,7 +3,7 @@ const siderbarConf = require("../../config/siderbarConf.js");
 const pluginConf = require("../../config/pluginConf.js");
 
 module.exports = {
-  title: "Power's Wiki", // 网站标题，改为你自己的
+  title: "Power's resume", // 网站标题，改为你自己的
   description: "个人知识库", // 网站描述，改为你自己的
   //base: '/Wiki-resume/', // 不自定义链接的时候才需要
 
