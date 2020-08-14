@@ -4,7 +4,15 @@ sidebar: false
 
 # 简历 - 林宇轩
 
-<br /><br /><br />
+<br />
+
+## 联系方式
+
+- 手机：18929638185
+- Email：me@wiki-power.com
+- 微信：`linyuxuanlin`
+
+<br />
 
 ## 个人信息
 
@@ -16,6 +24,8 @@ sidebar: false
 - 期望薪资：（待补充）
 - 期望城市：深圳、惠州、广州
 
+<br />
+
 ## 工作经历
 
 - 2020 年
@@ -24,6 +34,8 @@ sidebar: false
 - 2019 年
   - 担任校机器人队电控硬件组成员
   - 担任班级学习委员
+
+<br />
 
 ## 项目经历
 
@@ -122,6 +134,8 @@ sidebar: false
   - 三等奖 - 2017 年度潮汕星河奖
 - 开源地址：<https://github.com/linyuxuanlin/CASTIC>
 
+<br />
+
 ## 技术文章
 
 - [单片机最小系统设计 — 基于 STM32（F1）](https://wiki-power.com/post/%E7%94%B5%E8%B7%AF%E8%AE%BE%E8%AE%A1/%E5%8D%95%E7%89%87%E6%9C%BA%E6%9C%80%E5%B0%8F%E7%B3%BB%E7%BB%9F%E8%AE%BE%E8%AE%A1%E2%80%94%E5%9F%BA%E4%BA%8ESTM32%EF%BC%88F1%EF%BC%89.html)
@@ -138,9 +152,3 @@ sidebar: false
 - [STM32 的启动模式](https://wiki-power.com/post/%E5%B5%8C%E5%85%A5%E5%BC%8F%E5%BC%80%E5%8F%91/STM32%E7%9A%84%E5%90%AF%E5%8A%A8%E6%A8%A1%E5%BC%8F.html)
 - [PlatformIO — 一站式嵌入式开发工具](https://wiki-power.com/post/%E5%B5%8C%E5%85%A5%E5%BC%8F%E5%BC%80%E5%8F%91/PlatformIO%E2%80%94%E4%B8%80%E7%AB%99%E5%BC%8F%E5%B5%8C%E5%85%A5%E5%BC%8F%E5%BC%80%E5%8F%91%E5%B7%A5%E5%85%B7.html)
 - [PlatformIO 搭配 CubeMX 食用](https://wiki-power.com/post/%E5%B5%8C%E5%85%A5%E5%BC%8F%E5%BC%80%E5%8F%91/PlatformIO%E6%90%AD%E9%85%8DCubeMX%E9%A3%9F%E7%94%A8.html)
-
-## 联系方式
-
-- 手机：18929638185
-- Email：me@wiki-power.com
-- 微信：`linyuxuanlin`
