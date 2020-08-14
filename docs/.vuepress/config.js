@@ -99,8 +99,8 @@ module.exports = {
   plugins: pluginConf,
 
   themeConfig: {
-    nav: false,
-    sidebar: siderbarConf,
+    sidebar: "false",
+    navbar: false,
 
     //lastUpdated: "Last Updated",
 
