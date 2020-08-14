@@ -85,5 +85,5 @@ $ docker image rm [imageName]
 你可以在 [**Docker Hub**](https://hub.docker.com/) 搜索和下载大家分享的 image 文件，尽量挑选最多人用的那一个。
 
 > 文章作者：**Power Lin**  
-> 原文地址：<https://wiki-power.com>  
+> 原文地址：<https://resume.wiki-power.com>  
 > 版权声明：文章采用 [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by/4.0/deed.zh) 协议，转载请注明出处。

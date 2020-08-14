@@ -12,7 +12,7 @@
     <title>标题</title>
 </head>
 <body>
-    
+
 </body>
 </html>
 ```
@@ -24,7 +24,7 @@
 一些规范：
 
 1. 标签使用小写，元素必须闭合
-2. 空元素要加斜杠以闭合  eg. `<br />`
+2. 空元素要加斜杠以闭合 eg. `<br />`
 3. 不使用语义化，所有样式都存放于 CSS 中，内容与样式分离
 
 ```markup
@@ -66,7 +66,7 @@
     <a href="#top">回到顶部</a>
     <p id="top">顶部</p>
     <!--链接到其他页面的特定位置-->
-    <a href="http://wiki-power.com/#top">跳转到站外页面的某个位置</a>
+    <a href="http://resume.wiki-power.com/#top">跳转到站外页面的某个位置</a>
 
     <!--图像-->
     <img src="/xx.png" alt="无法加载时的文字说明" />
@@ -107,10 +107,10 @@
 
 ## 参考与致谢
 
-* [HTML 教程 \| 菜鸟教程](http://www.runoob.com/html/html-tutorial.html)
-* [HTML 30 分钟入门教程](http://deerchao.net/tutorials/html/html.htm)
-* [HTML - head 头部浅析](https://www.tielemao.com/831.html)
+- [HTML 教程 \| 菜鸟教程](http://www.runoob.com/html/html-tutorial.html)
+- [HTML 30 分钟入门教程](http://deerchao.net/tutorials/html/html.htm)
+- [HTML - head 头部浅析](https://www.tielemao.com/831.html)
 
 > 文章作者：**Power Lin**  
-> 原文地址：<https://wiki-power.com>  
+> 原文地址：<https://resume.wiki-power.com>  
 > 版权声明：文章采用 [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by/4.0/deed.zh) 协议，转载请注明出处。

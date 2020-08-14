@@ -42,7 +42,7 @@ window.alert("Hello");
 创建变量：
 
 ```javascript
-var carname="Volvo";
+var carname = "Volvo";
 ```
 
 **值类型 \（基本类型、)**：字符串（String）、数字 \(Number\)、布尔 \(Boolean\)、对空（Null）、未定义（Undefined）、Symbol。
@@ -50,5 +50,5 @@ var carname="Volvo";
 **引用数据类型**：对象 \(Object\)、数组 \(Array\)、函数 \(Function\)。
 
 > 文章作者：**Power Lin**  
-> 原文地址：<https://wiki-power.com>  
+> 原文地址：<https://resume.wiki-power.com>  
 > 版权声明：文章采用 [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by/4.0/deed.zh) 协议，转载请注明出处。

@@ -1,5 +1,7 @@
-# Power's resume
+# Power's Wiki
 
-个人简历页面
+个人知识库
 
-<resume.wiki-power.com>
+![Wiki-Action](https://github.com/linyuxuanlin/Wiki-resume/workflows/Wiki-Action/badge.svg)
+
+https://resume.wiki-power.com

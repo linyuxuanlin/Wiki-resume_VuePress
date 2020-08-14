@@ -77,7 +77,7 @@ VBAT 引脚可用于电池供电。如果不用，可以与 VDD 连接在一起�
 
 ![](https://wiki-media-1253965369.cos.ap-guangzhou.myqcloud.com/img/20200605163537.png)
 
-启动模式详见 [**STM32 的启动模式**](https://wiki-power.com/post/%E5%B5%8C%E5%85%A5%E5%BC%8F%E5%BC%80%E5%8F%91/STM32%E7%9A%84%E5%90%AF%E5%8A%A8%E6%A8%A1%E5%BC%8F.html)
+启动模式详见 [**STM32 的启动模式**](https://resume.wiki-power.com/post/%E5%B5%8C%E5%85%A5%E5%BC%8F%E5%BC%80%E5%8F%91/STM32%E7%9A%84%E5%90%AF%E5%8A%A8%E6%A8%A1%E5%BC%8F.html)
 
 ## 下载调试接口
 
@@ -95,10 +95,10 @@ VBAT 引脚可用于电池供电。如果不用，可以与 VDD 连接在一起�
 - [STM32F1 系列单片机硬件设计方法](https://blog.csdn.net/Creative_Team/article/details/80006705?utm_medium=distribute.pc_relevant.none-task-blog-BlogCommendFromMachineLearnPai2-7&depth_1-utm_source=distribute.pc_relevant.none-task-blog-BlogCommendFromMachineLearnPai2-7)
 - [STM32 硬件设计](https://cedar-renjun.github.io/2015/12/12/STM32-Hardware-Design/)
 - [STM32 时钟系统](http://blog.chinaunix.net/uid-24219701-id-4081961.html)
-- [STM32 的启动模式](https://wiki-power.com/post/%E5%B5%8C%E5%85%A5%E5%BC%8F%E5%BC%80%E5%8F%91/STM32%E7%9A%84%E5%90%AF%E5%8A%A8%E6%A8%A1%E5%BC%8F.html)
+- [STM32 的启动模式](https://resume.wiki-power.com/post/%E5%B5%8C%E5%85%A5%E5%BC%8F%E5%BC%80%E5%8F%91/STM32%E7%9A%84%E5%90%AF%E5%8A%A8%E6%A8%A1%E5%BC%8F.html)
 - [AN2586 应用笔记-STM32F10xxx 硬件开发使用入门](https://wiki-media-1253965369.cos.ap-guangzhou.myqcloud.com/doc/AN2586%E5%BA%94%E7%94%A8%E7%AC%94%E8%AE%B0-STM32F10xxx%E7%A1%AC%E4%BB%B6%E5%BC%80%E5%8F%91%E4%BD%BF%E7%94%A8%E5%85%A5%E9%97%A8.pdf)
 - [AN2867 应用笔记-ST 微控制器振荡器电路设计指南](https://wiki-media-1253965369.cos.ap-guangzhou.myqcloud.com/doc/AN2867%E5%BA%94%E7%94%A8%E7%AC%94%E8%AE%B0-ST%E5%BE%AE%E6%8E%A7%E5%88%B6%E5%99%A8%E6%8C%AF%E8%8D%A1%E5%99%A8%E7%94%B5%E8%B7%AF%E8%AE%BE%E8%AE%A1%E6%8C%87%E5%8D%97.pdf)
 
 > 文章作者：**Power Lin**  
-> 原文地址：<https://wiki-power.com>  
+> 原文地址：<https://resume.wiki-power.com>  
 > 版权声明：文章采用 [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by/4.0/deed.zh) 协议，转载请注明出处。

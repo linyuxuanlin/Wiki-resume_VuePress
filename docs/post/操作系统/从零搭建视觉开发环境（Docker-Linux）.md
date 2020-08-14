@@ -5,7 +5,7 @@
 - [在 Docker 的 Linux 容器搭建前端开发环境](https://segmentfault.com/a/1190000016364279)
 
 > 文章作者：**Power Lin**  
-> 原文地址：<https://wiki-power.com>  
+> 原文地址：<https://resume.wiki-power.com>  
 > 版权声明：文章采用 [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by/4.0/deed.zh) 协议，转载请注明出处。
 
 ## 结语
