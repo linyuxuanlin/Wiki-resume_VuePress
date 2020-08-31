@@ -39,6 +39,20 @@ sidebar: false
 
 ## 项目经历
 
+### RoboMaster 机甲大师对抗赛
+
+- 项目时间：2020 年
+- 获得奖项：全国二等奖
+- 证明文件：
+  - [获奖证书-Robomaster](https://cos.ap-guangzhou.myqcloud.com/wiki-media-1253965369/doc/certificate-of-award/%E8%8E%B7%E5%A5%96%E8%AF%81%E4%B9%A6-2020Robomaster.jpg)
+
+### “挑战杯”广东大学生创业大赛
+
+- 项目时间：2020 年
+- 获得奖项：校内铜奖
+- 证明文件：
+  - [获奖证书-创业大赛](https://cos.ap-guangzhou.myqcloud.com/wiki-media-1253965369/doc/certificate-of-award/%E8%8E%B7%E5%A5%96%E8%AF%81%E4%B9%A6-%E5%88%9B%E4%B8%9A%E5%A4%A7%E8%B5%9B.jpg)
+
 ### TinyDVR 电机驱动套件
 
 - 项目时间：2020 年
