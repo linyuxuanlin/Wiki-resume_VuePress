@@ -23,6 +23,10 @@ sidebar: false
 - 期望职位：嵌入式研发工程师、硬件型产品经理
 - 期望薪资：（待补充）
 - 期望城市：深圳、惠州、广州
+- 平均绩点：3.07
+- 成绩获奖
+  - 获得 2019~2020 年度三好学生（[证书](https://cos.ap-guangzhou.myqcloud.com/wiki-media-1253965369/doc/certificate-of-award/%E8%8D%A3%E8%AA%89%E8%AF%81%E4%B9%A6-%E4%B8%89%E5%A5%BD%E5%AD%A6%E7%94%9F-%E5%86%85%E5%AE%B9.jpg)）
+  - 获得 2019~2020 年度学校三等奖学金
 
 <br />
 
