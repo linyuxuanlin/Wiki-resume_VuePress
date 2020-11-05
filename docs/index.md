@@ -19,7 +19,7 @@ sidebar: false
 - 林宇轩 / 男 / 1999
 - 本科 / 华工广州学院 / 机器人学院
 - 技术博客：[wiki-power.com](https://wiki-power.com)
-- Github 主页：[github.com/linyuxuanlin](http://github.com/linyuxuanlin)
+- GitHub 主页：[github.com/linyuxuanlin](http://github.com/linyuxuanlin)
 - 期望职位：嵌入式研发工程师、硬件型产品经理
 - 期望薪资：（待补充）
 - 期望城市：深圳、惠州、广州
