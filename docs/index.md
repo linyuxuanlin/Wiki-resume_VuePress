@@ -16,6 +16,8 @@ sidebar: false
 
 ## 个人信息
 
+![](https://wiki-media-1253965369.cos.ap-guangzhou.myqcloud.com/img/20210310090805.jpg)
+
 - 林宇轩 / 男 / 1999
 - 本科 / 华工广州学院 / 机器人学院
 - 技术博客：[wiki-power.com](https://wiki-power.com)
@@ -23,7 +25,7 @@ sidebar: false
 - 期望职位：嵌入式研发工程师、硬件型产品经理
 - 期望薪资：（待补充）
 - 期望城市：深圳、惠州、广州
-- 平均绩点：3.07
+- 平均绩点：3.11
 - 成绩获奖
   - 获得 2019~2020 年度三好学生（[证书](https://cos.ap-guangzhou.myqcloud.com/wiki-media-1253965369/doc/certificate-of-award/%E8%8D%A3%E8%AA%89%E8%AF%81%E4%B9%A6-%E4%B8%89%E5%A5%BD%E5%AD%A6%E7%94%9F-%E5%86%85%E5%AE%B9.jpg)）
   - 获得 2019~2020 年度学校三等奖学金
@@ -32,12 +34,19 @@ sidebar: false
 
 ## 工作经历
 
+
+
 - 2020 年
   - 担任校机器人队队长
-  - 担任无人驾驶车大赛班级负责人
 - 2019 年
   - 担任校机器人队电控硬件组成员
   - 担任班级学习委员
+
+![](https://wiki-media-1253965369.cos.ap-guangzhou.myqcloud.com/img/20210310082050.png)
+
+![](https://wiki-media-1253965369.cos.ap-guangzhou.myqcloud.com/img/20210310082210.png)
+
+![](https://wiki-media-1253965369.cos.ap-guangzhou.myqcloud.com/img/20210310082221.png)
 
 <br />
 
