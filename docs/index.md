@@ -34,8 +34,6 @@ sidebar: false
 
 ## 工作经历
 
-
-
 - 2020 年
   - 担任校机器人队队长
 - 2019 年
@@ -74,16 +72,16 @@ sidebar: false
 ### SwiftCtrl 蓝牙手柄
 
 - 项目时间：2020 年
-- 项目简介：一款基于 DAP-Link 的烧录器 / 调试器，优化了布线，减小了体积
-- 项目详情：[SwiftCtrl - 蓝牙手柄](https://wiki-power.com/post/%E7%94%B5%E8%B7%AF%E8%AE%BE%E8%AE%A1/SwiftCtrl-%E8%93%9D%E7%89%99%E6%89%8B%E6%9F%84.html)
-- 开源地址：[linyuxuanlin/DashDAP](https://github.com/linyuxuanlin/DashDAP)
+- 项目简介：一款基于 Arduino 的蓝牙手柄，硬件上提供了两个摇杆与两个按钮的控制，以及 OLED 数显的功能
+- 项目详情：[自制 CMSIS-DAP](https://wiki-power.com/post/%E7%94%B5%E8%B7%AF%E8%AE%BE%E8%AE%A1/%E8%87%AA%E5%88%B6CMSIS-DAP.html)
+- 开源地址：[linyuxuanlin/SwiftCtrl](https://github.com/linyuxuanlin/SwiftCtrl)
 
 ### DashDAP 单片机烧录器
 
 - 项目时间：2020 年
-- 项目简介：一款基于 Arduino 的蓝牙手柄，硬件上提供了两个摇杆与两个按钮的控制，以及 OLED 数显的功能
-- 项目详情：[自制 CMSIS-DAP](https://wiki-power.com/post/%E7%94%B5%E8%B7%AF%E8%AE%BE%E8%AE%A1/%E8%87%AA%E5%88%B6CMSIS-DAP.html)
-- 开源地址：[linyuxuanlin/SwiftCtrl](https://github.com/linyuxuanlin/SwiftCtrl)
+- 项目简介：一款基于 DAP-Link 的烧录器 / 调试器，优化了布线，减小了体积
+- 项目详情：[SwiftCtrl - 蓝牙手柄](https://wiki-power.com/post/%E7%94%B5%E8%B7%AF%E8%AE%BE%E8%AE%A1/SwiftCtrl-%E8%93%9D%E7%89%99%E6%89%8B%E6%9F%84.html)
+- 开源地址：[linyuxuanlin/DashDAP](https://github.com/linyuxuanlin/DashDAP)
 
 ### 适用于飞镖系统的单片机控制器
 
